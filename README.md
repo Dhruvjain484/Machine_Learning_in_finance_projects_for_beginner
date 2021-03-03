@@ -8,4 +8,4 @@ A marketing campaign is to be launched based on the customer behavior.The data i
 Problem: <br /> 
 what are the spending behavior of customers? <br /> 
 How customers use their credit card? <br /> 
-How often do they shop?
+How often do they shop?\
